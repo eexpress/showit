@@ -13,7 +13,7 @@
 ## 软件结构
 ###安装都省了
 1. 下载单一`tar.gz`。解压就可以跑。（要是我采用MDWiki发布）
-1. 或者，直接`git clone xxxx`。（github.com没看到显示README.md时，支持自定义css的）
+1. 或者，直接`git clone https://github.com/eexpress/showit`。（github.com没看到显示README.md时，支持自定义css的）
 
 源码在其他仓库。非商业用途授权吧。GPL3??????
 
