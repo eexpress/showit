@@ -13,14 +13,16 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 60 60"
+   viewBox="0 0 83.304237 76.109459"
    enable-background="new 0 0 60 60"
    xml:space="preserve"
-   sodipodi:docname="icon-important.svg"
-   inkscape:version="0.92.4 (unknown)"><metadata
+   sodipodi:docname="important.svg"
+   inkscape:version="0.92.4 (unknown)"
+   width="83.304237"
+   height="76.109459"><metadata
    id="metadata12"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs10" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -30,26 +32,32 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1444"
+   inkscape:window-width="1682"
    inkscape:window-height="946"
    id="namedview8"
    showgrid="false"
    inkscape:zoom="3.9333333"
-   inkscape:cx="30.254237"
-   inkscape:cy="30"
+   inkscape:cx="65.015251"
+   inkscape:cy="33.247455"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="2"
+   fit-margin-left="2"
+   fit-margin-right="2"
+   fit-margin-bottom="2" />
 <g
    id="sub0"
-   inkscape:label="#Warning_Sign">
+   inkscape:label="#Warning_Sign"
+   transform="matrix(1.616804,0,0,1.616804,-8.7517466,-15.461483)">
 	<g
    id="g4">
 		<path
-   fill="#CC3B31"
-   d="M54.3,42.8l-16.1-28c-1.4-2.5-4.1-4-7.1-4s-5.6,1.5-7.1,4L7.7,43.3c-1.4,2.5-1.4,5.6,0,8.1s4.1,4,7.1,4    h32.8l0,0c4.5,0,8.1-3.7,8.1-8.1C55.7,45.6,55.2,44.1,54.3,42.8z M34.6,45.5c0,2-1.5,3.4-3.5,3.4s-3.5-1.4-3.5-3.4v-0.1    c0-1.9,1.5-3.4,3.5-3.4S34.6,43.5,34.6,45.5L34.6,45.5z M34.7,22.6l-1.7,15c-0.1,1.1-0.8,1.8-1.9,1.8c-1,0-1.7-0.7-1.9-1.8    l-1.7-15c-0.1-1.2,0.5-2.1,1.6-2.1h3.9C34.1,20.6,34.8,21.5,34.7,22.6z"
-   id="path2" />
+   d="m 54.3,42.8 -16.1,-28 c -1.4,-2.5 -4.1,-4 -7.1,-4 -3,0 -5.6,1.5 -7.1,4 L 7.7,43.3 c -1.4,2.5 -1.4,5.6 0,8.1 1.4,2.5 4.1,4 7.1,4 h 32.8 v 0 c 4.5,0 8.1,-3.7 8.1,-8.1 0,-1.7 -0.5,-3.2 -1.4,-4.5 z m -19.7,2.7 c 0,2 -1.5,3.4 -3.5,3.4 -2,0 -3.5,-1.4 -3.5,-3.4 v -0.1 c 0,-1.9 1.5,-3.4 3.5,-3.4 2,0 3.5,1.5 3.5,3.5 z m 0.1,-22.9 -1.7,15 c -0.1,1.1 -0.8,1.8 -1.9,1.8 -1,0 -1.7,-0.7 -1.9,-1.8 l -1.7,-15 C 27.4,21.4 28,20.5 29.1,20.5 H 33 c 1.1,0.1 1.8,1 1.7,2.1 z"
+   id="path2"
+   inkscape:connector-curvature="0"
+   style="fill:#cc3b31" />
 	</g>
 </g>
 </svg>
