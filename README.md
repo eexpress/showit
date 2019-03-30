@@ -15,6 +15,7 @@ librsvg某函数用法，全世界只看到一个模糊的例子。原作者老�
 ---
 直接`git clone https://github.com/eexpress/showit`。
 >源码在其他仓库。非商业用途授权吧。GPL3。
+> GPL3 授权。gtk+-3.0和librsvg-2.0下编译的。当前Linux发行版本应该通用。其他平台不知道安装了gtk环境能跑不。
 
 ## 软件结构
 ---
