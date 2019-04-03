@@ -7,6 +7,8 @@
 
 ![演示](shot.png)
 
+[视频演示](showit.mkv)
+
 ## 安装
 ---
 直接`git clone https://github.com/eexpress/showit`。
