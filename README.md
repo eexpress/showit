@@ -57,6 +57,14 @@
 ### ~/.config/showit.fontname.list
 `可选`。`字体配置`文件。一行一个字体名。ctrl滚轮就会切换字体。最多8种字体。
 
+假设喜欢的字体都是自己安装的。可以这样快速设置字体列表：
+```
+fc-query ~/.local/share/fonts/*.ttf|grep "family:"|perl -pe 's."\(s\)$..; s/.*\"//'|sort -u > ~/.config/showit.fontname.list
+```
+如果只列出支持中文的字体列表：
+```
+fc-list :lang=zh-CN family|sed -e 's/,.*//'|sort -u
+```
 ---
 
 ### *.svg
