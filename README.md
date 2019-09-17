@@ -63,7 +63,7 @@ fc-query ~/.local/share/fonts/*.ttf|grep "family:"|perl -pe 's."\(s\)$..; s/.*\"
 ```
 如果只列出支持中文的字体列表：
 ```
-fc-list :lang=zh-CN family|sed -e 's/,.*//'|sort -u
+fc-list :lang=zh-CN family|sed -e 's/,.*//'|sort -u > ~/.config/showit.fontname.list
 ```
 ---
 
