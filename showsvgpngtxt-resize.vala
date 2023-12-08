@@ -1,4 +1,5 @@
 //!valac --pkg gtk+-3.0 --pkg librsvg-2.0 %
+//!valac --pkg gtk4 --pkg librsvg-2.0 %
 //x!./%< 字体演示--Text
 //x!./%< switch-Emoticon.svg
 using Gtk;
